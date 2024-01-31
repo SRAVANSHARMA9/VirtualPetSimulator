@@ -1,0 +1,14 @@
+A:\CONESTOGA\1ST SEM\HIGH QUALITY SW PROGRAMMING\VirtualPetSimulator\VirtualPetSimulator\bin\Debug\net8.0\VirtualPetSimulator.exe
+A:\CONESTOGA\1ST SEM\HIGH QUALITY SW PROGRAMMING\VirtualPetSimulator\VirtualPetSimulator\bin\Debug\net8.0\VirtualPetSimulator.deps.json
+A:\CONESTOGA\1ST SEM\HIGH QUALITY SW PROGRAMMING\VirtualPetSimulator\VirtualPetSimulator\bin\Debug\net8.0\VirtualPetSimulator.runtimeconfig.json
+A:\CONESTOGA\1ST SEM\HIGH QUALITY SW PROGRAMMING\VirtualPetSimulator\VirtualPetSimulator\bin\Debug\net8.0\VirtualPetSimulator.dll
+A:\CONESTOGA\1ST SEM\HIGH QUALITY SW PROGRAMMING\VirtualPetSimulator\VirtualPetSimulator\bin\Debug\net8.0\VirtualPetSimulator.pdb
+A:\CONESTOGA\1ST SEM\HIGH QUALITY SW PROGRAMMING\VirtualPetSimulator\VirtualPetSimulator\obj\Debug\net8.0\VirtualPetSimulator.GeneratedMSBuildEditorConfig.editorconfig
+A:\CONESTOGA\1ST SEM\HIGH QUALITY SW PROGRAMMING\VirtualPetSimulator\VirtualPetSimulator\obj\Debug\net8.0\VirtualPetSimulator.AssemblyInfoInputs.cache
+A:\CONESTOGA\1ST SEM\HIGH QUALITY SW PROGRAMMING\VirtualPetSimulator\VirtualPetSimulator\obj\Debug\net8.0\VirtualPetSimulator.AssemblyInfo.cs
+A:\CONESTOGA\1ST SEM\HIGH QUALITY SW PROGRAMMING\VirtualPetSimulator\VirtualPetSimulator\obj\Debug\net8.0\VirtualPetSimulator.csproj.CoreCompileInputs.cache
+A:\CONESTOGA\1ST SEM\HIGH QUALITY SW PROGRAMMING\VirtualPetSimulator\VirtualPetSimulator\obj\Debug\net8.0\VirtualPetSimulator.dll
+A:\CONESTOGA\1ST SEM\HIGH QUALITY SW PROGRAMMING\VirtualPetSimulator\VirtualPetSimulator\obj\Debug\net8.0\refint\VirtualPetSimulator.dll
+A:\CONESTOGA\1ST SEM\HIGH QUALITY SW PROGRAMMING\VirtualPetSimulator\VirtualPetSimulator\obj\Debug\net8.0\VirtualPetSimulator.pdb
+A:\CONESTOGA\1ST SEM\HIGH QUALITY SW PROGRAMMING\VirtualPetSimulator\VirtualPetSimulator\obj\Debug\net8.0\VirtualPetSimulator.genruntimeconfig.cache
+A:\CONESTOGA\1ST SEM\HIGH QUALITY SW PROGRAMMING\VirtualPetSimulator\VirtualPetSimulator\obj\Debug\net8.0\ref\VirtualPetSimulator.dll
